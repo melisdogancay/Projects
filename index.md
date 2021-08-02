@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/melisdogancay/SchoolProjec
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[here](https://github.com/melisdogancay/SchoolProjects/blob/main/denetimli%20verituretme%20ornek.html)
+[here](https://melisdogancay.github.io/School-Project/denetimli verituretme ornek.html)
 
 
 
