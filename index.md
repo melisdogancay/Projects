@@ -1,42 +1,21 @@
-## Welcome to GitHub Pages
+## School-Project
 
-You can use the [editor on GitHub](https://github.com/melisdogancay/SchoolProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### School-Project(Melis Merve Dogancay)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[here](https://melisdogancay.github.io/School-Project/denetimli_verituretme_ornek.html)
+- This repository include some of my data analysis projects using R on Dokuz Eylul University Data Science Master Degree.
 
 
+1. Data Analysis with Some Supervised Machine Learning Algorithms is [here](https://melisdogancay.github.io/School-Project/denetimli_verituretme_ornek.html)
 
-### Markdown
+2. COVID-19 Data Analysis with R is [here](https://melisdogancay.github.io/School-Project/covid-19 veri analizi.html) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Logistic Regression Analysis with lowbt Dataset is [here](https://melisdogancay.github.io/School-Project/lowbt.html)
 
-```markdown
-Syntax highlighted code block
+4. Multiple Linear Regression Analysis with Hitters Dataset is [here](https://melisdogancay.github.io/School-Project/hitters_reg.html)
 
-# Header 1
-## Header 2
-### Header 3
+5. Data Analysis with Some Unsupervised Machine Learning Algorithms is [here](https://melisdogancay.github.io/School-Project/denetimsiz_ml_verianalizi.html)
 
-- Bulleted
-- List
+6. Machine Learning Methods Based on Classification and Its Application on Medical Data is [here](https://melisdogancay.github.io/School-Project/heart_disease.html)  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melisdogancay/SchoolProjects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. 
 
