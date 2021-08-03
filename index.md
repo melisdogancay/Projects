@@ -7,7 +7,7 @@
 
 1. Data Analysis with Some Supervised Machine Learning Algorithms is [here](https://melisdogancay.github.io/School-Project/denetimli_verituretme_ornek.html)
 
-2. COVID-19 Data Analysis with R is [here](https://melisdogancay.github.io/School-Project/covid-19 veri analizi.html) 
+2. COVID-19 Data Analysis with R is [here](https://melisdogancay.github.io/School-Project/covid-19_verianalizi.html) 
 
 3. Logistic Regression Analysis with lowbt Dataset is [here](https://melisdogancay.github.io/School-Project/lowbt.html)
 
